@@ -1,0 +1,2 @@
+# auto-teatest
+Tea testnet
